@@ -14,7 +14,6 @@ A structured overview of Machine Learning approaches and algorithms.
 - [📊 Unsupervised Learning](#-unsupervised-learning)
 - [🔄 Reinforcement Learning](#-reinforcement-learning)
 - [👥 Ensemble Learning](#-ensemble-learning)
-- [📂 Classical Learning](#-classical-learning)
 
 </details>
 
@@ -93,6 +92,3 @@ A structured overview of Machine Learning approaches and algorithms.
 - **Pattern Search**: EUCAT, Apriori, FP-Growth
 
 ---
-
-## 📂 Classical Learning
-- Traditional ML methods that form the foundation of supervised and unsupervised learning techniques.
